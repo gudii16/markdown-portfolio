@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# My _skill_ in **Technology**
+1 Java
+2 Python
+3 SQL
